@@ -1,6 +1,11 @@
 git add *.文件类型
 git commit -m “注释信息”:将暂存区内容添加到本地仓库
-git remote add origin https://github.com/1022692180/gesture.git
+git remote add origin https://github.com/1022692180/hfut_curriculum_design.git
 git push -u origin master（第一次上传）
 git push origin master
 git remote remove origin
+
+更新
+git add.
+git commit -m""
+git push origin master
